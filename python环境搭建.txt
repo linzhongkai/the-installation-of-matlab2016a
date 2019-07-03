@@ -1,1 +1,16 @@
-python
+python安装
+
+按照以下的顺序：
+官网下载python
+安装
+costume installation
+launch all users and add path
+默认选项，可以选择更改安装路径
+使用cmd校验python编译环境能否使用，输入python即可
+
+pycharm安装
+官网下载pycharm
+正常安装即可
+编程风格在file setting里面
+
+
