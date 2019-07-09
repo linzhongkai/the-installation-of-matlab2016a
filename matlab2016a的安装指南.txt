@@ -1,17 +1,17 @@
-�����ڰٶ������̽��а�װ�������أ�
-���ӣ�https://pan.baidu.com/s/1x2bxJqjdqsWYiDixMwu48A 
-��ȡ�룺seoe
-������Ҳ��û�а취���£��㿪��Ա�ɣ�������û������
+首先在百度云网盘进行安装包的下载：
+链接：https://pan.baidu.com/s/1JxSY0AL23RMKMBRKyx-56g 
+提取码：n9i0 
+（限速也是没有办法的事，你开会员吧，反正我没开过）
 
-�õ�crack��part1��part2����ѹ��������ѹ
+得到crack、part1、part2三个压缩包，解压
 
-���part1�Ĺ���ӳ���ļ�
-bin�ļ���Ŀ¼�µ�setup���а�װ��ʹ���ļ���װ��Կ��װ��
+点击part1的光盘映像文件
+bin文件夹目录下的setup进行安装，使用文件安装密钥安装，
 
-���Ÿ���crack�ļ���readmeĿ¼�µ�standalone��FIK��ճ������װ����������ļ���ԿĿ¼��������װ��ɼ���
-���о�����ʾ�����ļ��Ļ�ʹ��crack�ļ��������standalone.lic����
+解着复制crack文件夹readme目录下的standalone的FIK，粘贴到安装程序所需的文件密钥目录，静待安装完成即可
+还有就是提示激活文件的话使用crack文件夹里面的standalone.lic即可
 
-����һ���ǽ�crack�ļ��������R2016a�����binĿ¼���ļ��ŵ���װĿ¼�µ�binĿ¼���ɣ���ͬ�ļ�ѡ��ճ�������滻�Ϳ��ԡ�
+最后的一步是将crack文件夹里面的R2016a里面的bin目录的文件放到安装目录下的bin目录即可，相同文件选择粘贴并且替换就可以。
 
 
 
